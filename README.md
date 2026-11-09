@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Amna! 👋
 
-<!--
-**builtbyamna/builtbyamna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm a student and aspiring software developer interested in programming, web development, and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technologies I'm Learning
+- Python
+- Flask
+- HTML
+- SQL
+- SQLite
+- APIs
+
+### 🚀 My Projects
+- **Appointment Booking System** – A web application built with Python, Flask, and SQLite.
+- More projects coming soon!
+
+### 🌱 Currently Learning
+- Backend development
+- Database management
+- Building full-stack web applications
+
+### 🎯 My Goal
+To continue learning, building projects, and developing my skills as a software developer.
+
+Thank you for visiting my profile!
